@@ -3,7 +3,7 @@
 
 Breakthrough cancer pain (BTcP) is a challenging clinical problem in managing cancer pain.
 
-We investigated the clinical relevance of deep neural network models that predicts the onset time of BTcP for patients.
+We investigated the clinical relevance of deep neural network models that predicts the onset time of BTcP.
 
 
 
