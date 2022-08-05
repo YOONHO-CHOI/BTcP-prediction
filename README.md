@@ -10,6 +10,7 @@ We investigated the clinical relevance of deep neural network models that predic
 BTcP was defined as the pain with a numerical rating scale (NRS) score of 4 or above. 
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/54790722/183018583-7b36e2f9-ff1f-4c81-9f70-b056e70fa5bf.png"/></p>
+<p align="center"><img src = "https://user-images.githubusercontent.com/54790722/183026447-1c816468-92ab-40a5-b5d1-d6350c419954.png"/></p>
 
 
 ## Model 
@@ -32,4 +33,5 @@ Matthews correlation coefficient (MCC)
 
 
 ## Cases of prediction for onset timing of BTcP
-<p align="center"><img src = "https://user-images.githubusercontent.com/54790722/183023211-2a9baea8-7eb2-46eb-bfa1-1aacc671f6e6.jpg"/></p>
+<p align="center"><img src = "https://user-images.githubusercontent.com/54790722/183026501-5dfacc8b-7199-4948-ab41-96f1a7014ea8.png"/></p>
+
