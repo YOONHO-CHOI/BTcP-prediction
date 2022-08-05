@@ -1,1 +1,1 @@
-# Break-Through-Cancer-Pain-prediction
+# Break-through cancer pain (BTcP) prediction
