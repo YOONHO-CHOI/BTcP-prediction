@@ -19,7 +19,7 @@ The model consisted of three basic LSTM blocks stacked followed by dense layers.
 
 
 
-The model was trained for 300 epochs with a batch size of 100 with balanced cross entropy loss and was optimized by stochastic weight averaging (SWA,(23)) with an initial learning rate of 1e-4, start averaging of 5, and the average period of 1. Our model was programmed in Python 3.7, Tensorflow 2.4.1 version, and experimented with NVIDIA Geforce RTX 2080.
+The model was trained for 300 epochs with a batch size of 100 with balanced cross entropy loss and was optimized by stochastic weight averaging (SWA) with an initial learning rate of 1e-4, start averaging of 5, and the average period of 1. Our model was programmed in Python 3.7, Tensorflow 2.4.1 version, and experimented with NVIDIA Geforce RTX 2080.
 
 ## Evaluation metric
 Matthews correlation coefficient (MCC)
